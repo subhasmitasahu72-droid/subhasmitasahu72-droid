@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi 👋 I'm Subhasmita Sahu
+MBA (Data Science & Analytics) | B.Tech CSE  
+I build dashboards and data stories using Power BI, Excel & SQL.  
+Currently learning: advanced Power BI, SQL, and practical analytics projects.
 
 <!--
 **subhasmitasahu72-droid/subhasmitasahu72-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
