@@ -1,19 +1,47 @@
-## Hi 👋 I'm Subhasmita Sahu
-MBA (Data Science & Analytics) | B.Tech CSE  
-I build dashboards and data stories using Power BI, Excel & SQL.  
-Currently learning: advanced Power BI, SQL, and practical analytics projects.
+## 💫 About Me
 
-<!--
-**subhasmitasahu72-droid/subhasmitasahu72-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+### 👋 Hi, I'm **Subhasmita Sahu**  
+*A passionate learner and aspiring Data Analyst*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning and building projects in **Power BI, SQL, Excel, and Python**.  
+📊 I enjoy transforming raw data into meaningful insights and dashboards.  
+🎓 As a **fresher**, I focus on improving my analytical thinking and real-world problem-solving skills.  
+🚀 My goal is to start my career in **Data Analytics** and grow through continuous learning.
+
+</div>
+
+---
+
+## 🛠️ Skills I'm Learning
+
+<div align="center">
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=000)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=data&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 What I'm Focusing On
+
+- Learning by building **real-world analytics projects**  
+- Improving my **data cleaning, visualization, and storytelling skills**  
+- Understanding dashboards, trends, and KPIs  
+- Preparing myself for my **first data analytics job**
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhasmita-sahu-b0aa92209/)  
+📧 **Email:** *subhasmitasahu72@gmail.com*
+
+</div>
