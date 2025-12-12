@@ -14,6 +14,18 @@
 
 ---
 
+
+## 🎓 Education
+
+<div align="center">
+
+🎓 **MBA (Master of Business Administration)** — *Currently Pursuing*  
+🎓 **B.Tech in Computer Science Engineering (CSE)** — *Completed*
+
+</div>
+
+----
+
 ## 🛠️ Skills I'm Learning
 
 <div align="center">
